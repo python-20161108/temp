@@ -1,7 +1,7 @@
 #!/bin/evn python
 #-*- coding: utf-8 -*-
 
-import SocketServer
+from wanghn import SocketServer
 import os
        
 class MyTCPHandler(SocketServer.BaseRequestHandler):
