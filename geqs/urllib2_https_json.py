@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# urllib2通过https POST json数据
+
 
 import urllib
 import urllib2
